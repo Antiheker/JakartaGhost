@@ -1,4 +1,4 @@
-# ``Welcome To Jakarta Ghost```
+# ``Welcome To Warmachinery Team``
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
@@ -13,18 +13,18 @@
     </p>
 
 -------
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm LihhXsec </h1>
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Im Megumin1337</h1>
 <p align="center">
   <img src="https://telegra.ph/file/4e7c69125aabf3e04e96b.jpg" /></>
 </p>
 
-- Created By Lihhxsec
+- Created By Warmachinery Team 
 - Defacer , Sql Injection , Coding
 - I am not programmer
 
 ## ```Our Platform```
 <p align="center">
-  <a href="https://instagram.com/t._.xshylh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://tiktok.com/@warmachineryteam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="  "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/galihhhhptrr"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
@@ -36,22 +36,14 @@
 
 
 
-[`Fuck Mastah`]( )<br>
+[`From Lammer To Haxor`]( )<br>
 
 <p align="center">
-  <a href="https://www.instagram.com/t._.xshylh"><img src="https://telegra.ph/file/3f5660643840da7f3793e.jpg" />
+  <a href="https://tiktok.com/@warmachineryteam"><img src="https://telegra.ph/file/3f5660643840da7f3793e.jpg" />
 </p>
 
 
 
 ## ```Blog 🌐```
 
-- [`Jakarta Ghost`](https://jakartaghosts.blogspot.com/)
-
-## ```Thanks To```
-
-- [`Lihhxsec`]()
-- [`AmirXploit`]()
-- [`Stvn7`]()
-- [`Saexploit`]()
-- [`Owen77`]()
+- [` Warmachinery Team `](https://jakartaghosts.blogspot.com/)
